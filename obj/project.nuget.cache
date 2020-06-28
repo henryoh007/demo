@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nfGthgkkHBrRKZqBnrJHZBtuITAJ9UZpZpZvz7c+Ji0fjKs3OVPh3TAy9LxFy/NtDybI4KyfVyueMVToqzZkmA==",
+  "dgSpecHash": "FrioyiNsvbqifHEpfIyn27cbhbNRlH/EfEq6vntJEXwFWG40BiXiz6llyMjht0Y9WCohxdaUWS0P+qdujTfyNA==",
   "success": true,
-  "projectFilePath": "C:\\dev\\azure\\webApp\\demo\\demo.csproj",
+  "projectFilePath": "c:\\dev\\azure\\webApp\\demo\\demo.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

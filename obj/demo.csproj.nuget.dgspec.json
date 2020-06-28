@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\azure\\webApp\\demo\\demo.csproj": {}
+    "c:\\dev\\azure\\webApp\\demo\\demo.csproj": {}
   },
   "projects": {
-    "C:\\dev\\azure\\webApp\\demo\\demo.csproj": {
+    "c:\\dev\\azure\\webApp\\demo\\demo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\azure\\webApp\\demo\\demo.csproj",
+        "projectUniqueName": "c:\\dev\\azure\\webApp\\demo\\demo.csproj",
         "projectName": "demo",
-        "projectPath": "C:\\dev\\azure\\webApp\\demo\\demo.csproj",
+        "projectPath": "c:\\dev\\azure\\webApp\\demo\\demo.csproj",
         "packagesPath": "C:\\Users\\Henry\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\azure\\webApp\\demo\\obj\\",
+        "outputPath": "c:\\dev\\azure\\webApp\\demo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
